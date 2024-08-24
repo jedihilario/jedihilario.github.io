@@ -28,9 +28,14 @@ header {
     align-items: center;
 }
 
-header > h1 {
+.name {
     display: inline-block;
     font-weight: bold;
+    outline: 4px #ddd solid;
+    padding: 1.25rem;
+    border-radius: 2rem;
+    color: #ddd;
+    background-color: #5553;
 }
 
 ul {
