@@ -46,6 +46,17 @@ header {
     background-color: #5553;
 }
 
+#main__text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#main__text p {
+    display: inline-block;
+    font-weight: 600;
+}
+
 ul {
     box-sizing: border-box;
     list-style: none;
