@@ -51,6 +51,11 @@ header > p {
     padding: 1rem;
 }
 
+.level {
+    list-style: none;
+    margin-top: .5rem;
+}
+
 .list > li > a {
     color: blue;
     text-decoration: none;
